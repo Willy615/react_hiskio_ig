@@ -2,12 +2,12 @@
   "posts": [
     {
       "id": 1,
-      "location": "布魯斯前端",
-      "account": "bruce_1234",
-      "avatar": "/images/avatars/a1.png",
-      "photo": "/images/posts/main1.png",
+      "location": "卡法小姐",
+      "account": "mskavabar",
+      "avatar": "/images/avatars/mskavabar.jpg",
+      "photo": "/images/posts/main1.jpg",
       "likes": 999,
-      "description": "我的老天鵝！",
+      "description": "女股神！",
       "hashTags": "#鵝鵝",
       "createTime": "1 HOURS AGO"
     },
@@ -59,53 +59,23 @@
   "stories": [
     {
       "id": 1,
-      "name": "bruce_fe",
-      "avatar": "/images/avatars/a1.png"
+      "name": "ness",
+      "avatar": "/images/avatars/ness.jpg"
     },
     {
       "id": 2,
-      "name": "max",
-      "avatar": "/images/avatars/a2.png"
+      "name": "richard",
+      "avatar": "/images/avatars/richard.jpg"
     },
     {
       "id": 3,
-      "name": "fm",
-      "avatar": "/images/avatars/a3.png"
+      "name": "zahama",
+      "avatar": "/images/avatars/zahama.jpg"
     },
     {
       "id": 4,
-      "name": "joanne",
-      "avatar": "/images/avatars/a4.png"
-    },
-    {
-      "id": 5,
-      "name": "focus",
-      "avatar": "/images/avatars/a5.png"
-    },
-    {
-      "id": 6,
-      "name": "louis",
-      "avatar": "/images/avatars/a6.png"
-    },
-    {
-      "id": 7,
-      "name": "alvin",
-      "avatar": "/images/avatars/a7.png"
-    },
-    {
-      "id": 8,
-      "name": "grace",
-      "avatar": "/images/avatars/a8.png"
-    },
-    {
-      "id": 9,
-      "name": "rance",
-      "avatar": "/images/avatars/a9.png"
-    },
-    {
-      "id": 10,
-      "name": "bruce_fe",
-      "avatar": "/images/avatars/a10.png"
+      "name": "joe",
+      "avatar": "/images/avatars/joe.jpg"
     }
   ]
 }

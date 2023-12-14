@@ -13,6 +13,7 @@ const Comment: React.FC<IGPostProps> = ({
   createTime,
   account,
 }) => {
+  const randomComment = Math.ceil(Math.random() * 999);
   return (
     <div className="px-4">
       <div className="flex justify-between box-border mt-4 mb-4">
@@ -83,7 +84,7 @@ const Comment: React.FC<IGPostProps> = ({
       </p>
       <p className="text-blue-900 text-sm">{hashTags}</p>
       <p className="text-gray-400 text-xs font-[500] mt-2">
-        View all 999 comments
+        View all {randomComment} comments
       </p>
       <p className="text-gray-400 text-[10px] mt-1">{createTime}</p>
     </div>
